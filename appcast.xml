@@ -4,12 +4,12 @@
         <title>CHIT</title>
         <item>
             <title>1.4.13</title>
-            <pubDate>Wed, 23 Apr 2025 11:49:19 -0500</pubDate>
+            <pubDate>Wed, 23 Apr 2025 20:08:37 -0500</pubDate>
             <sparkle:version>1.4.13</sparkle:version>
             <sparkle:shortVersionString>1.4.13</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
             <sparkle:fullReleaseNotesLink>https://azcash.github.io/chit-autoupdate-prd/release-notes/history</sparkle:fullReleaseNotesLink>
-            <enclosure url="https://github.com/AzCash/chit-autoupdate-prd/releases/download/v1.4.13/CHIT-v1.4.13.dmg" length="45967171" type="application/octet-stream"/>
+            <enclosure url="https://github.com/AzCash/chit-autoupdate-prd/releases/download/v1.4.13/CHIT-v1.4.13.dmg" length="45963571" type="application/octet-stream" sparkle:edSignature="8r+kkV3KS7Wb9T7BCqJ3fqINfT9x8Q2YkWV4f5K7PJyivCktH8BfimnE9jf3RjWJjWgJc0BT2UKscCGjZ+UtAw=="/>
         </item>
     </channel>
 </rss>
