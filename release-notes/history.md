@@ -1,5 +1,8 @@
 # Version History
 
+## v1.4.16
+- Fix: user provisioning signature
+
 ## v1.4.15
 - Fix: versioning issue AcceptAsk2Move revert to VaultSDK `v1.9.1`
 
